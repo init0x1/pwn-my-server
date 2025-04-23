@@ -9,7 +9,7 @@ To install the PwnMyServer , follow these steps:
 ### Clone this GitHub repository to your local machine:
 
 ```
-git clone https://github.com/0xAbdoAli/PwnMyServer.git
+git clone https://github.com/init0x1/pwn-my-server.git
 ```
 
 ### Run the tool:
